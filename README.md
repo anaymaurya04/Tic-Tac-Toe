@@ -2,18 +2,6 @@
 
 Welcome to the Tic Tac Toe AI Game repository! This project showcases the development of a Tic Tac Toe game with an AI opponent using Python's Pygame library and the Minimax algorithm. The AI is designed to play optimally, providing a challenging experience for human players.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Game Mechanics](#game-mechanics)
-- [Minimax Algorithm](#minimax-algorithm)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project is a fun and educational way to explore game development and artificial intelligence concepts. It is suitable for beginners and experienced developers alike, offering insights into Pygame for creating game interfaces and the Minimax algorithm for implementing game AI.
