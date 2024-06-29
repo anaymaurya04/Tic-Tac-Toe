@@ -22,15 +22,16 @@ To run this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/tic-tac-toe-ai.git
    cd tic-tac-toe-ai
-   Install the required dependencies:
-
+   
+2.Install the required dependencies:
 Ensure you have Python installed. Then, install Pygame:
 
-2. ```bash
-    
-      pip install pygame
-      Run the game:```
+```bash
+   pip install pygame
+```
 
-3. ```bash
+3.Run the game
+
+ ```bash
    
    python tic_tac_toe.py
