@@ -27,10 +27,10 @@ To run this project on your local machine, follow these steps:
 Ensure you have Python installed. Then, install Pygame:
 
 2. ```bash
-    Copy code
+    
       pip install pygame
       Run the game:```
 
 3. ```bash
-   Copy code
+   
    python tic_tac_toe.py
